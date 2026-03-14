@@ -64,3 +64,4 @@ int main() {
        
         printf("Kota Tujuan        : %s\n", kota_tujuan.nama);
         printf("Berat Paket Butet  : %.2f kg\n", berat_butet);
+    }
